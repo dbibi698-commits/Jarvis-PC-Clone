@@ -1,0 +1,18 @@
+<resources>
+    <style name="Theme.Jarvis" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="colorPrimary">@color/cyan</item>
+        <item name="colorPrimaryVariant">#0891B2</item>
+        <item name="colorSecondary">@color/orange</item>
+        <item name="colorOnPrimary">#001018</item>
+        <item name="android:windowBackground">@color/bg</item>
+        <item name="android:statusBarColor">@color/bg</item>
+        <item name="android:navigationBarColor">@color/bg</item>
+        <item name="android:textColor">@color/text</item>
+        <item name="android:textColorHint">@color/muted</item>
+    </style>
+    <style name="Theme.Jarvis.Transparent" parent="Theme.Jarvis">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>
