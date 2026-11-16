@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jarvis AI</string>
+    <string name="settings">Jarvis Settings</string>
+    <string name="accessibility_desc">Jarvis AI uses this to see the screen, tap, scroll, type and open apps on your command (voice or chat). Nothing is done without your instruction.</string>
+</resources>
